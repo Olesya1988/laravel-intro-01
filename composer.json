@@ -1,0 +1,19 @@
+{
+    "name": "olesya1988/intro-01",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Olesya1988\\Intro01\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Olesya Vetoshkina",
+            "email": "our_post-office@mail.ru"
+        }
+    ],
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
